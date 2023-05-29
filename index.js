@@ -7,6 +7,5 @@ console.log("hi ...");
 console.log("ali...");
 console.log("ali...");
 console.log("ali...");
-console.log("ali...");
-console.log("ali...");
+alert("hiiiiii");
 // fun
